@@ -32,7 +32,7 @@
     --browser-bg: #ffffff;
     --browser-bar: #f5f2ef;
 
-    /* Fixed colors for dark-band sections (contact) — do not swap with theme */
+    /* Fixed colors for dark-band sections (contact). Do not swap with theme */
     --inverse-bg: #1a1412;
     --inverse-fg: #faf7f4;
     --inverse-muted: rgba(250, 247, 244, 0.72);
